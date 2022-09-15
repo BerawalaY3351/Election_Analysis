@@ -8,7 +8,7 @@ Additional request are:
 - Country with highest turnout.
 
 ## Election Result
-Bulleted list of each election outcomes that is addressed
+List of each election outcomes that is addressed
 ![](Election_Result_snip.png)
 
 How many Votes were cast in this congreessional election ?
@@ -39,8 +39,8 @@ Example:
    - Votes per political
    - Vote percentage for political party out of total votes
 2. Add "Age" column
-  - Which age group has the highest voters?
-  - Which age group responsuble for the winner and loser of the election
-  - Which age group supports the political party ?
+   - Which age group has the highest voters?
+   - Which age group responsuble for the winner and loser of the election
+   - Which age group supports the political party ?
 
 There alot of ideas that can be implemented into the code to future election. But the examples above can give a little idea or hint what future programmers or client do with using the script given. 
