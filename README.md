@@ -1,4 +1,5 @@
 # Election Analysis
+Election_Analysis zip has resources and analysis folder which contains txt and CSV
 ## Purpose of the Election Analysis is Well Defined
 After helping Seth and Tom with their initial request for election data. They have asked for additional data:
 Additional request are:
